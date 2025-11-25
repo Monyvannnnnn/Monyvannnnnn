@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate frontend developer crafting seamless user experiences</h3>
 
-🛠️ Tech Stack
+ <h2>🛠️ TechStack</h2> 
 
 <div align="center">
 
