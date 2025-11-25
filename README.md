@@ -44,7 +44,7 @@ Version Control
 
 <div align="center">
 
-  <h1>Coding and Gaming</h1>
+  <h1>Coding</h1>
 
 </br>
 
