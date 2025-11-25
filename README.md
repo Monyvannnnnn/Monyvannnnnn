@@ -17,22 +17,18 @@
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/html.gif" height="40" alt="HTML" />
 <img width="12" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+<img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS3.gif" height="40" alt="CSS" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+<img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/JS.gif" height="40" alt="JS" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+<img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/REACT.gif" height="40" alt="React" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3DTrapfether.tailwind-raw-reorder&psig=AOvVaw2Zcpem61zBebNp8GFKhatW&ust=1764128893663000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDo67KyjJEDFQAAAAAdAAAAABAy" height="40" alt="sass" />
 
-#### Backend & Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+#### Version Control
+<img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/GIT.gif" height="40" alt="Git" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+
 
 </div>
 
@@ -98,8 +94,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
