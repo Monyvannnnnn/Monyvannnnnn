@@ -3,11 +3,6 @@
 </div>
 
 <h3 align="center">A passionate frontend developer crafting seamless user experiences</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maurodesouza&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
-</p>
-
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -24,12 +19,10 @@
 <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
 <img width="12" />
-
-
 #### Version Control
-
 <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/GIT.gif" height="40" alt="Git" />
 <img width="12" />
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="40" alt="GitHub" />
-
 </div>
+</br>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="40" alt="mario"/>
