@@ -8,26 +8,14 @@
   <img src="https://komarev.com/ghpvc/?username=maurodesouza&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
----
-
-### 🚀 About Me
-
-- 🔭 I'm currently working on **exciting frontend projects**
-- 🌱 I'm constantly learning and exploring **modern web technologies**
-- 💬 Ask me about **React, TypeScript, JavaScript, and frontend architecture**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I turn coffee into code** ☕➡️💻
-
----
 
 ### 🛠️ Tech Stack
 
 <div align="center">
 
 #### Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/html.gif)" height="40" alt="HTML" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
 <img width="12" />
