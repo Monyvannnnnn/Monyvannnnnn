@@ -8,14 +8,13 @@
   <img src="https://komarev.com/ghpvc/?username=maurodesouza&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
-
 ### 🛠️ Tech Stack
 
 <div align="center">
 
 #### Frontend
+
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/html.gif" height="40" alt="HTML" />
-<img width="12" />
 <img width="12" />
 <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS3.gif" height="40" alt="CSS" />
 <img width="12" />
@@ -23,15 +22,14 @@
 <img width="12" />
 <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/REACT.gif" height="40" alt="React" />
 <img width="12" />
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F374118%2Ftailwind&psig=AOvVaw0HcH0D31yifHMhqMiOLZ-I&ust=1764129240877000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKCqitizjJEDFQAAAAAdAAAAABAE" height="40" alt="React" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
 <img width="12" />
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3DTrapfether.tailwind-raw-reorder&psig=AOvVaw2Zcpem61zBebNp8GFKhatW&ust=1764128893663000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDo67KyjJEDFQAAAAAdAAAAABAy" height="40" alt="sass" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40" alt="Sass" />
 
 #### Version Control
+
 <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/GIT.gif" height="40" alt="Git" />
 <img width="12" />
-
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" alt="GitHub" />
 
 </div>
-
-
