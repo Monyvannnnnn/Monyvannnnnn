@@ -23,6 +23,8 @@
 <img width="12" />
 <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/REACT.gif" height="40" alt="React" />
 <img width="12" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F374118%2Ftailwind&psig=AOvVaw0HcH0D31yifHMhqMiOLZ-I&ust=1764129240877000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKCqitizjJEDFQAAAAAdAAAAABAE" height="40" alt="React" />
+<img width="12" />
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3DTrapfether.tailwind-raw-reorder&psig=AOvVaw2Zcpem61zBebNp8GFKhatW&ust=1764128893663000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDo67KyjJEDFQAAAAAdAAAAABAy" height="40" alt="sass" />
 
 #### Version Control
@@ -32,67 +34,4 @@
 
 </div>
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&border_radius=10" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&border_radius=10" height="160" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=10" height="160" alt="streak graph" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maurodesouza&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" alt="trophy" />
-</div>
-
----
-
-### 📫 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
-  </a>
-  <a href="https://discord.com/users/yourid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-  <i>⭐️ From [maurodesouza](https://github.com/maurodesouza)</i>
-</div>
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-
-###
