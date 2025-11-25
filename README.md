@@ -1,81 +1,52 @@
-# 👋 Hi, I'm [Your Name]
-
 <div align="center">
-  
-```
-    .       .      .     .
-  .   .  .    .  .   .   .
-    .    .  .    .   .  .
-  .  .     .  .    .   .
-    .   .    .  .    .    .
-  .    .  .     .  .   .
-    .     .   .    .  .   
-```
 
-### 🌧️ Welcome to my digital rainstorm
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Vann;Frontend+Developer+%7C+Problem+Solver;Building+Beautiful+Web+Experiences" alt="Typing SVG" />
 
 </div>
 
-## ⚡ About Me
+<h3 align="center">A passionate frontend developer crafting seamless user experiences</h3>
 
-Just like raindrops, I'm constantly falling... *into new technologies*
-
-- 🌊 Currently drowning in: **[Your current project/tech]**
-- 💧 Learning to navigate: **[What you're learning]**
-- ⛈️ Brewing up: **[What you're working on]**
-- 🌈 After the rain comes: **[Your goals]**
-
-## 🛠️ Tech Stack
-
-```rain
-☂️ Languages:     [Python] [JavaScript] [Your languages]
-💨 Frameworks:    [React] [Node.js] [Your frameworks]
-🌩️ Tools:        [Git] [Docker] [Your tools]
-⚡ Databases:     [PostgreSQL] [MongoDB] [Your DBs]
-```
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
-
-</div>
-
-## 🌧️ Recent Drops (Projects)
-
-- 💧 **[Project 1]** - Description of your project
-- 💧 **[Project 2]** - Description of your project
-- 💧 **[Project 3]** - Description of your project
-
-## 📫 Catch Me in the Rain
+🛠️ Tech Stack
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+Frontend
+
+<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/html.gif" height="40" alt="HTML" />
+
+<img width="12" />
+
+<img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS3.gif" height="40" alt="CSS" />
+
+<img width="12" />
+
+<img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/JS.gif" height="40" alt="JS" />
+
+<img width="12" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" height="40" alt="React" />
+
+<img width="12" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+
+<img width="12" />
+
+Version Control
+
+<img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/GIT.gif" height="40" alt="Git" />
+
+<img width="12" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="40" alt="GitHub" />
 
 </div>
-
----
 
 <div align="center">
 
-```
-    🌧️ Let it rain code 🌧️
-```
+  <h1>Coding and Gaming</h1>
 
-*"Life isn't about waiting for the storm to pass, it's about learning to code in the rain."*
+</br>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="mario" height="350" width="600px"/></div>
 
-</div>
-
-<!-- Rain ASCII Art
-     .    .    .    .    .
-   .   .  .  .   .  .  .
-     .  .    .  .    .  .
-   .    .  .   .  .    .
-     .   .  .  .   .  .
--->
