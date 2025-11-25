@@ -20,7 +20,7 @@
 <img width="12" />
 <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/JS.gif" height="40" alt="JS" />
 <img width="12" />
-<img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/REACT.gif" height="40" alt="React" />
+<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" height="40" alt="React" />
 <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
 <img width="12" />
