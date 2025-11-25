@@ -22,7 +22,9 @@
 #### Version Control
 <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/GIT.gif" height="40" alt="Git" />
 <img width="12" />
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="40" alt="GitHub" /></br><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="40" alt="mario"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="40" alt="GitHub" />
+</br>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="mario"/>
 </div>
 
 
