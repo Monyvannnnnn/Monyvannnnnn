@@ -30,6 +30,6 @@
 
 <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/GIT.gif" height="40" alt="Git" />
 <img width="12" />
-<img src="https://share.google/images/chzB9f0N1agQrPOJc" height="40" alt="GitHub" />
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="40" alt="GitHub" />
 
 </div>
