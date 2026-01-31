@@ -48,5 +48,5 @@ Version Control
 
 </br>
 
-<img src="https://pin.it/65cakEMqM" alt="mario" height="350" width="600px"/></div>
+<img src="cowboy.gif" alt="mario" height="350" width="600px"/></div>
 
