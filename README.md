@@ -32,6 +32,10 @@ Frontend
 
 <img width="12" />
 
+Backend 
+
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="40" alt="Node js" />
+
 Version Control
 
 <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/GIT.gif" height="40" alt="Git" />
