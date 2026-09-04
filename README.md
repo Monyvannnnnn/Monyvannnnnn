@@ -34,8 +34,6 @@
 
 <img width="12" />
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-
 <br><br>
 
 <h3>Backend</h3>
@@ -51,9 +49,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
 
 <img width="12" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
-
 <br><br>
 
 <h3>Database & ORM</h3>
